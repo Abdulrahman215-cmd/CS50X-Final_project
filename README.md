@@ -1,6 +1,5 @@
 # Rust network tools
-## Video Demo: https://vimeo.com/1106515963?share=copy
-[![Watch the video](https://i.imgur.com/VIDEO_THUMBNAIL.png)](https://youtu.be/rbwRWqC5EWs)
+## Video Demo: (https://youtu.be/rbwRWqC5EWs)
 
 
 ## Description:
